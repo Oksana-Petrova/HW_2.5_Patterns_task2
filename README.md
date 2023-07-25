@@ -1,0 +1,1 @@
+Project status [![Build status](https://ci.appveyor.com/api/projects/status/jlgthd69b8pim39e?svg=true)](https://ci.appveyor.com/project/Oksana-Petrova/hw-2-5-patterns-task2)
