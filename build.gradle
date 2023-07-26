@@ -18,6 +18,9 @@ dependencies {
     testImplementation 'com.codeborne:selenide:6.13.0' // библиотека com.codeborne:selenide используется при построении проекта с использованием Selenide
     testImplementation 'io.rest-assured:rest-assured:4.3.0'
     testImplementation 'com.google.code.gson:gson:2.8.6'
+    testImplementation 'org.projectlombok:lombok:1.18.26'
+    testImplementation 'com.github.javafaker:javafaker:1.0.1' //библиотека Faker
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
 }
 
 test {
